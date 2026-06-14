@@ -1,0 +1,26 @@
+# Большие данные
+data/*.csv
+raw/
+*.csv
+
+# Секреты и токены
+my_token
+*.key
+*.pem
+*.ppk
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Служебные файлы Windows
+*Zone.Identifier
+*:Zone.Identifier
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
